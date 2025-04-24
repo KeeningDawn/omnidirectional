@@ -1,0 +1,15 @@
+{
+	"disableAutoUpdate": false,
+	"name": "omnidirectional",
+	"author": "Dawn",
+	"version": "1.4",
+	"description": "A mod that makes supported single-direction skills omnidirectional. Use WASD with the supported skill to go that direction!",
+	"options": {
+		"cliName": "Omnidirectional",
+		"guiName": "Omnidirectional (Classic)",
+		"settingsVersion": 4,
+		"settingsFile": "config.json",
+		"settingsMigrator": "config_generator.js"
+	},
+	"servers": ["https://raw.githubusercontent.com/KeeningDawn/omnidirectional/main/"]
+}
