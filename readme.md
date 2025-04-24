@@ -2,6 +2,8 @@
 
 A mod that makes supported single-direction skills omnidirectional. Use WASD with the supported skill to go that direction!
 
+https://github.com/user-attachments/assets/40adc435-6491-4c02-a67b-76b178696825
+
 This mod aims to make the game feel *similar* to how it does in modern versions. However, as the game isn't meant to function like this (especially in Classic versions) this mod has its own "feel", especially for specific skills.
 
 ## Forewords
