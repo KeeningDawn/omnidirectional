@@ -216,6 +216,7 @@ module.exports = function dirSkillsClassic(mod) {
 	}
 
 	this.destructor = () => {
+		ioHook.stop();
 		for (const key in keys) {
 			keys[key] = false;
 		}

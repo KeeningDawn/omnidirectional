@@ -2,7 +2,7 @@
 	"disableAutoUpdate": false,
 	"name": "omnidirectional",
 	"author": "Dawn",
-	"version": "1.4",
+	"version": "1.4.1",
 	"description": "A mod that makes supported single-direction skills omnidirectional. Use WASD with the supported skill to go that direction!",
 	"options": {
 		"cliName": "Omnidirectional",

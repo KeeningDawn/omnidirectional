@@ -1,9 +1,9 @@
 {
 	"files": {
 		"config_generator.js": "81d0396bf8c79acf016dd4e6950f48105e1d49aa10b79be5a2bb3b4e2c163636",
-		"index.js": "1f670c90972d71d3ff59753ccb056ec99f9e944edd3b5bae39e6388ab8d156b0",
-		"module.json": "a9629a6d4eb0a2c5f749144cec64f882748f3274b0094830922b4da88dabdbe1",
-		"node_modules/iohook/index.js": "979fbf629ad05f99cf34d0470cb4a265b7019120a03b60e635b660576dac5dee",
+		"index.js": "d6fdb1af283a08fe3af2a149f260379215a7310d01fba2c88635531bd7863a69",
+		"module.json": "3a9382896d8f5d716680ce7d0ee3551e0c77f7bb7ad3fd010a662fc2775a95d5",
+		"node_modules/iohook/index.js": "8b8a5fc136c1c155f8c2f749fdb7ee1ea0ac8b5a69300b366b89481994533202",
 		"node_modules/iohook/package.json": "352cd3c01d27d3709300119b28ec970eb673d345850b32beb4b03ccf4721f8ec",
 		"node_modules/iohook/res/iohook.node": "426f0fcaa3e30b37cc92f3ee69e15758c272fa6039f8796582ccf0193b216133",
 		"node_modules/iohook/res/uiohook.dll": "1d3dcb5b8d0935209ef23ce5bbfa4802cceb4f9d0de53bb0d474141700d93038",
